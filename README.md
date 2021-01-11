@@ -8,12 +8,16 @@ Skateboard brand business development deals to onboard key players, management a
 
 # Biz dev & deals with numbers mutually lucritive for all:Which would benefit by exposure to the culture:
 •Sponsored Athletes
+
 • Retail shops
+
 • Rrands seeking to reach
+
 •Graphic artists
+
 •Merchandise vendors:
 
-# Assemble Code S/w Dev team to achieve a working Testnet Iteration to Pursue Various Grantand Funding Campaign Applications 
+# Assemble Code Software Dev. team to achieve a working Testnet Iteration to Pursue Various Grantand Funding Campaign Applications 
 
 U/X & U/I DesignAn dapp that allows for basic video production/geo tagging functionality allows users ambassador skaters, and delegates to upload and share media within the app environment and supports basic messaging and timeline features to user interaction.
 
@@ -43,6 +47,8 @@ All would benefit from the Decentralized nature of a blockchain tokenized ecosys
 
 Unlike virtual machine blockchain networks; Stellar doesn’t require network computing for app. Stellar simply handles operations and transactions between participating nodes on the network.
 
-# Addition IBC Chain Intergrations Required for Resources to Run Dapp Contracts 
+# Additional IBC Chain Intergrations Required for Resources to Run Dapp Contracts 
 
 This allows devs to build features for an app to scale dynamically on devices like AWS or other cloud infrastructure, especially considering adoption of EOS, ATOM and other interchain virtual machine technology, with dpos, and trust technology where when skaters desire sponsorship, would require required tokens to stake into the branded content, ai generated video production.
+
+Stellar network would just handle the unit of account and transacting functionality for payment through their distributed ledger. Specifically the Trustline and cross border remittance which connects seemless with traditional banking and is open source and non-profit. This would allow easy payment through both fiat and electronic assets. 
